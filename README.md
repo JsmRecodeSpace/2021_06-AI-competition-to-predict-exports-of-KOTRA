@@ -24,5 +24,4 @@
 
 ## 5. 성과
 ![image](https://user-images.githubusercontent.com/55688416/151649190-f15f70a1-af9c-424a-8cf0-3198b46a3e9b.png)
-![image](https://user-images.githubusercontent.com/55688416/151649208-a8169898-3e85-4ba9-99bf-86c805bd860f.png)
-
+![image](https://user-images.githubusercontent.com/55688416/151649474-d5df0891-8b21-4cbd-a2fb-28a9569b9f04.png)
