@@ -48,9 +48,9 @@ KOTRA 수입 예측분석
  - 6. 피쳐 설렉션
 ***
 #### ch.4 Modeling
-ExtraTrees, XGB, LGBM, CatBoost
-단일 모델 기본성능 확인
-단일 모델 튜닝성능 확인 (BayesianOptimization)
+ - ExtraTrees, XGB, LGBM, CatBoost
+ - 단일 모델 기본성능 확인
+ - 단일 모델 튜닝성능 확인 (BayesianOptimization)
 ***
 #### ch.5 Ensemble
  - 모델별 상관관계
